@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1 1 0px;
+}
+
+header {
+    weight: 1200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+section {
+    weight: 1200px;
+    border: 1px solid;
+}
